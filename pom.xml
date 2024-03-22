@@ -57,7 +57,7 @@
 				<artifactId>git-commit-id-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>GitHub-Actions</finalName>
+		<finalName>github-actions-demo</finalName>
 	</build>
 
 </project>
